@@ -2,6 +2,7 @@ import argparse
 import importlib
 from utils import *
 
+
 MODEL_DIR=None
 DATA_DIR = 'data/'
 OBJ_DIR=None
